@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AAF4ED851839C684008D251E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AAF4ED841839C684008D251E /* main.m */; };
-		AAF4ED871839C684008D251E /* Monster.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = AAF4ED861839C684008D251E /* Monster.1 */; };
+		AAF4ED871839C684008D251E /* monster.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = AAF4ED861839C684008D251E /* monster.1 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -18,7 +18,7 @@
 			dstPath = /usr/share/man/man1/;
 			dstSubfolderSpec = 0;
 			files = (
-				AAF4ED871839C684008D251E /* Monster.1 in CopyFiles */,
+				AAF4ED871839C684008D251E /* monster.1 in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
@@ -27,7 +27,7 @@
 /* Begin PBXFileReference section */
 		AAF4ED811839C684008D251E /* monster */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = monster; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAF4ED841839C684008D251E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		AAF4ED861839C684008D251E /* Monster.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Monster.1; sourceTree = "<group>"; };
+		AAF4ED861839C684008D251E /* monster.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = monster.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				AAF4ED841839C684008D251E /* main.m */,
-				AAF4ED861839C684008D251E /* Monster.1 */,
+				AAF4ED861839C684008D251E /* monster.1 */,
 			);
 			path = Monster;
 			sourceTree = "<group>";
@@ -227,6 +227,7 @@
 				AAF4ED8C1839C684008D251E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
