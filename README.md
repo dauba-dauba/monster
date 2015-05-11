@@ -1,2 +1,2 @@
 # monster
-Monster: a command-line cookie editor for OS X.
+monster: a command-line cookie editor for OS X.
