@@ -3,7 +3,7 @@ monster is a command-line cookie editor for OS X.
 
 ## Usage
 
-*monster* operates on the current user's cookie jar. It supports three modes of operation: get, set, and eat (delete).
+*monster* operates on the current user's cookie jar. It supports three modes of operation - get, set, and eat (delete) - as follows:
 
 > monster get url [key]
 
