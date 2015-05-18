@@ -18,6 +18,8 @@ Set a cookie for url `url` with key `key` and value `value`. Both `key` and `val
 * d days
 * y years
 
+For example, `5m` equals five minutes, `10y` equals ten years, etc.
+
 ##### `monster eat url key`
 
 Remove the the cookie for url `url` with key `key`. `key` is required; `monster` does not support deleting all cookies for a domain, mostly to avoid tragic mistakes.
